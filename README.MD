@@ -158,6 +158,11 @@ Replace <username> with your PostgreSQL username, <database_name> with the name 
 
 ## Authors <a name="authors"></a>
 
+**Ignacio Fino**
+
+- GitHub: [@Alejuda](https://github.com/Alejuda/)
+- LinkedIn: [Ignacio Fino](https://www.linkedin.com/in/ignacio-fino/)
+
 **Romans S.**
 
 - GitHub: [@romans-adi](https://github.com/romans-adi/)
