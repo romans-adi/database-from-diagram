@@ -1,10 +1,8 @@
 <!-- PROJECT DESCRIPTION -->
 
-# <a name="about-project"> 🐖 VetClinic 🐒 </a>
+# <a name="about-project"> Diagram on DB </a>
 
-<a href="https://ibb.co/w0HNxL5"><img src="https://i.ibb.co/QbBF1cy/db-queries.png" alt="db-queries" border="0"></a>
-
-This project is a database system for a vet clinic. The database includes tables to store information about animals, their owners, clinic employees, and visits. The goal is to design a comprehensive database structure that enables efficient management and organization of data related to the clinic's operations and patient care.
+This project is a database system for a clinic. The database includes tables to store information about patients, medical histories, treatments, and invoices. The goal is to design a comprehensive database structure that enables efficient management and organization of data related to the clinic's operations and patient care.
 
 <!-- TABLE OF CONTENTS -->
 
@@ -115,19 +113,19 @@ Clone the project using one of the options.
 Using SSH-key:
 
 ```
-git clone git@github.com:romans-adi/vet-clinic.git
+git clone git@github.com:romans-adi/database-from-diagram.git
 ```
 
 Using HTTPS:
 
 ```
-git clone https://github.com/romans-adi/vet-clinic.git
+git clone https://github.com/romans-adi/database-from-diagram.git
 ```
 
 You can also create the new directory just adding the name of it in the end of command. For example:
 
 ```
-git clone https://github.com/romans-adi/vet-clinic.git vet-clinic
+git clone https://github.com/romans-adi/database-from-diagram.git vet-clinic
 ```
 
 ### Usage
@@ -174,7 +172,6 @@ Replace <username> with your PostgreSQL username, <database_name> with the name 
 ## Future Features <a name="future-features"></a>
 
 - [ ] **Add new tables medications & procedures**
-- [ ] **Add schema diagram**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
